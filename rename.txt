@@ -1,0 +1,21 @@
+roadmap to frontend developer:-
+Programming Language
+1.Javascript(done)
+2.Typescript(done)
+
+Basic Tools
+
+1. Terminal(done)
+2. Git(done)
+3. Designing Tools(done)
+4. Text Editors(done)
+5.  Learn basic React(done)
+6.  Styling(done)
+7.  Forms
+8. Custom Components(done)
+9. NAvigation
+10.Data management(pending)
+11.Authentication And Authorization(pending)
+12.Animations(pending)
+13.Caching Data(pending)
+14.Testing(pending)
